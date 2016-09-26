@@ -1,5 +1,4 @@
-[![Build Status](https://travis-ci.org/danielepanozzo/cg.svg?branch=master)](https://travis-ci.org/danielepanozzo/cg)
-[![Build status](https://ci.appveyor.com/api/projects/status/3b1dti4xig8i3c4a?svg=true)](https://ci.appveyor.com/project/danielepanozzo/cg)
+[![Build Status](https://travis-ci.org/snowymo/cg.svg?branch=master)](https://travis-ci.org/snowymo/cg)
 
 # Graduate Computer Graphics, CSCI-GA 2270-001 Fall 2016
 
