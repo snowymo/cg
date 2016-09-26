@@ -59,3 +59,5 @@ matrix:
         - cd build
         - cmake ../
         - make -j 2
+        
+        
